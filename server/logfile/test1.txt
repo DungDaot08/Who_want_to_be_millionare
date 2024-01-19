@@ -1,0 +1,5 @@
+test1;b;<font color='green'>Win **** Enemy Rank Point(1000)</font>
+test1;b;<font color='green'>Win **** Enemy Rank Point(500)</font>
+test1;b;<font color='red'>Lose **** Enemy Rank Point(2500)</font>
+test1;b;<font color='red'>Lose **** Enemy Rank Point(600)</font>
+btest1;b;<font color='green'>Win **** Enemy Rank Point(1400)</font>
